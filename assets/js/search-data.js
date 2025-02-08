@@ -66,8 +66,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-i-got-a-10-10-in-mathematics",
+          title: 'I got a 10/10 in Mathematics!!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
