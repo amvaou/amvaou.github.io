@@ -37,26 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-projects",
+        },{id: "dropdown-projects",
               title: "projects",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
               },
             },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
