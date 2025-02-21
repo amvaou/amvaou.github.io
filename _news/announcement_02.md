@@ -1,0 +1,1 @@
+Just did my first lesson in computer science of my second semester!
