@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 1000005570.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Phone: 6945314245</p>
